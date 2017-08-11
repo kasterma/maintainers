@@ -1,0 +1,9 @@
+test this:
+  M: Piet
+  F:
+    - this/that/this.txt
+    - this/that/this2.txt
+
+test that:
+  M: Jan
+  F: this/*
